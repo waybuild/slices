@@ -1,0 +1,8 @@
+OS
+debian
+
+DEPS
+ruby
+
+RUN
+curl whoops
