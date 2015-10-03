@@ -1,7 +1,9 @@
 OS
 debian
+ubuntu
+
+DEP
+upgrade
 
 RUN
-apt-get update -y
-apt-get upgrade -y
 apt-get install wget -y
